@@ -4,8 +4,5 @@ numpy
 pandas
 opencv-python
 opencv-contrib-python
-torch==2.2.0
-torchvision==0.17.0
-torchaudio==2.2.0
 pyautogui
 keyboard
