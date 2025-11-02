@@ -26,10 +26,10 @@ It is a prototype of the **EyeTyper demo**, designed to help non-verbal users co
 ![options](assets/options.png)
 
 ### 🤟 Sign Language Typing Demo  
-![Sign Language Typing](assets/sign_language.png)
+![Sign Language Typing](assets/sign%20language.png)
 
 ### 👁️ EyeTyper Keyboard  
-![EyeTyper Keyboard](assets/eyetyper_demo.png)
+![EyeTyper Keyboard](assets/eyetyper%20demo.png)
 
 > 📝 *To display the images above, create an `assets` folder in your repository and add your screenshots there with the same filenames.*
 
