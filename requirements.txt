@@ -6,3 +6,4 @@ opencv-python
 opencv-contrib-python
 pyautogui
 keyboard
+tornado
