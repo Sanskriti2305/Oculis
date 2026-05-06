@@ -51,7 +51,7 @@ It is a prototype of the **EyeTyper demo**, designed to help non-verbal users co
 
 ```bash
 # Clone this repository
-git clone https://github.com/<your-username>/Oculis.git
+git clone https://github.com/Sanskriti2305/Oculis.git
 
 # Navigate to the folder
 cd Oculis
