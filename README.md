@@ -1,4 +1,4 @@
-# 🧠 Oculis — AI-Powered Eye & Sign Language Typing Prototype
+# 🧠 Oculis - AI-Powered Eye & Sign Language Typing Prototype
 
 Oculis is a **Streamlit-based accessibility prototype** that enables users to **type using sign language gestures** and a **virtual eye-controlled keyboard**.  
 It is a prototype of the **EyeTyper demo**, designed to help non-verbal users communicate effortlessly using **AI and computer vision**.
